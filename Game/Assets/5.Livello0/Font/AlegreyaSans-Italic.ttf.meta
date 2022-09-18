@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: f99a7b418d6bd0c44b2579cdc2766517
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alegreya Sans
+  fontNames:
+  - Alegreya Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8bae52106998a4447b0650efb4fbc1df, type: 3}
+  - {fileID: 12800000, guid: dd327ab081dd9904f8e4e6cedf5e6b5a, type: 3}
+  - {fileID: 12800000, guid: b2a120a21d165bb4cac644ca49d40620, type: 3}
+  - {fileID: 12800000, guid: 98dcfa95f2c45f14491a00a7c472040b, type: 3}
+  - {fileID: 12800000, guid: 7d3b5a372e0314443af7c4e654d3073e, type: 3}
+  - {fileID: 12800000, guid: 6b905ed729b6dd342ae728218d0f05a8, type: 3}
+  - {fileID: 12800000, guid: 247050684f9aa8642906472b40724356, type: 3}
+  - {fileID: 12800000, guid: 249af7f8357432743add4d07cebe02fb, type: 3}
+  - {fileID: 12800000, guid: 45d73a2d56a29384cb89fec1c57163d3, type: 3}
+  - {fileID: 12800000, guid: ee99de8dfb72723489dea887a5036966, type: 3}
+  - {fileID: 12800000, guid: 17f804ade05596542bed9a85a62f2c4b, type: 3}
+  - {fileID: 12800000, guid: 2d5d4c3eec87c5a4ca9b67d0c7e21d40, type: 3}
+  - {fileID: 12800000, guid: cacd060f2e79da648844446b80627a93, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
