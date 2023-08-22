@@ -1,5 +1,5 @@
-# Gamification-and-game-design
-Course at "La Sapienza Università di Roma". It has been shown that two different 3d figures never make the same sound, but this is not proven for 2d figures. The purpose of this game, through gamification, is to find out by chance whether two different 2d figures make the same sound.
+# Gamification and game design
+Course of Gamification and game design at "La Sapienza University of Rome". It has been shown that two different 3d figures never make the same sound, but this is not proven for 2d figures. The purpose of this game, through gamification, is to find out by chance whether two different 2d figures make the same sound.
 # Some game images
 ![Screenshot_2022_09_18_10_03_04_63_35a7ee8728727d28d5ae55696074de30](https://user-images.githubusercontent.com/72938804/190896139-a93135fa-3e5d-4d9c-b8f9-eceb4a8257ad.jpg)
 ![Screenshot_2022_09_18_10_03_47_36_35a7ee8728727d28d5ae55696074de30](https://user-images.githubusercontent.com/72938804/190896148-12acd29a-fa05-4223-8e78-a76f28b1b603.jpg)
